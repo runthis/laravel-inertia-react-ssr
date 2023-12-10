@@ -13,6 +13,13 @@ This is an opinionated Laravel 10 install using React with Server-side Rendering
 
 http://localhost/
 
+## Accessing the starter react page
+
+http://localhost/test
+
+## Using SSR
+
+`sail artisan inertia:start-ssr`
 
 ## Packages & Features
 
