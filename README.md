@@ -4,6 +4,7 @@ This is an opinionated Laravel 10 install using React with Server-side Rendering
 
 
 ## Setup
+`git clone git@github.com:runthis/laravel-inertia-react-ssr.git my-app`
 
 `bash ./bin/init.sh`
 
