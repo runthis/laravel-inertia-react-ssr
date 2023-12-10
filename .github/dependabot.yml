@@ -29,7 +29,6 @@ updates:
       interval: "weekly"
       day: "sunday"
     labels:
-      - "dependency"
       - "npm"
   - package-ecosystem: "composer"
     versioning-strategy: increase
@@ -52,5 +51,4 @@ updates:
       interval: "weekly"
       day: "sunday"
     labels:
-      - "dependency"
       - "composer"
